@@ -74,6 +74,8 @@ regd_users.put("/auth/review/:isbn", (req, res) => {
 
 regd_users.put("/auth/review/:isbn", (req, res) => {
 
+//DONT FORGET TO CHANGE PUT TO DELETE ABOVE
+        
     //const isbn = req.params.isbn;
 
     //if user === user, delete, send confirmation
